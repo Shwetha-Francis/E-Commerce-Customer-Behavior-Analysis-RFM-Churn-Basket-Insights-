@@ -1,0 +1,17 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Retail DB",
+            "database": "${workspaceFolder:customer-pulse-sql}/data/online_retail_II.xlsx"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Retail db",
+            "database": "${workspaceFolder:customer-pulse-sql}/retail.db"
+        }
+    ]
+}
