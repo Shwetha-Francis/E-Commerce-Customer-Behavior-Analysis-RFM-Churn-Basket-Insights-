@@ -1,4 +1,4 @@
-# 🛍️ Customer Pulse — Retail Analytics Project
+# 🛍️ E-Commerce Customer Behavior Analysis: RFM, Churn & Basket Insights  — Retail Analytics Project
 
 A end-to-end SQL analytics project analyzing 800,000+ retail transactions to uncover revenue trends, customer behavior, and churn risk.
 
