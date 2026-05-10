@@ -92,6 +92,8 @@ Finds product pairs frequently bought together using a self-join on invoice ID �
 
 ## 📈 Power BI Dashboard
 
+## 📈 Power BI Dashboard
+
 The dashboard includes 5 visuals with interactive slicers for **Country** and **Customer Segment**:
 
 | Visual | Type | Insight |
@@ -101,6 +103,9 @@ The dashboard includes 5 visuals with interactive slicers for **Country** and **
 | Customer Segments | Donut chart | RFM segment distribution |
 | Top 10 Countries by Revenue | Bar chart | Geographic revenue breakdown |
 | Churn Risk Customers | Card | Count of at-risk customers |
+
+![Customer Pulse Dashboard](assets/dashboard_preview.png)
+
 
 ---
 
